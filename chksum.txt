@@ -1,0 +1,3 @@
+MD5 hash of update_package.pkg:
+210be1ce2090826a0cccc5d8734a610d
+CertUtil: -hashfile command completed successfully.
